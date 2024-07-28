@@ -27,7 +27,8 @@
 
 1. cuda 12.1
 2. python >= 3.10
-3. 需要本地安装ollama，并下载qwen2
+3. 需要本地安装ollama，并下载qwen2:
+
     ollama qwen2
 
 ###### **安装步骤**
