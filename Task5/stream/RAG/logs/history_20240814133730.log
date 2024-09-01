@@ -1,0 +1,9 @@
+2024-08-14 13:37:34,989 - INFO - PyTorch version 2.4.0 available.
+2024-08-14 13:37:35,125 - INFO - Use pytorch device_name: cuda
+2024-08-14 13:37:35,126 - INFO - Load pretrained SentenceTransformer: e:\workspace\Langgraph\multi_agent\indexer_model\zpoint_large_embedding_zh
+2024-08-14 13:37:35,984 - INFO - Loading faiss with AVX2 support.
+2024-08-14 13:37:35,994 - INFO - Successfully loaded faiss with AVX2 support.
+2024-08-14 13:37:44,397 - INFO - HTTP Request: POST http://localhost:11434/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-14 13:37:51,171 - INFO - Use pytorch device_name: cuda
+2024-08-14 13:37:51,172 - INFO - Load pretrained SentenceTransformer: e:\workspace\Langgraph\multi_agent\indexer_model\zpoint_large_embedding_zh
+2024-08-14 13:38:00,086 - INFO - HTTP Request: POST http://localhost:11434/v1/chat/completions "HTTP/1.1 200 OK"

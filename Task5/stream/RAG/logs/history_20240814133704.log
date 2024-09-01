@@ -1,0 +1,5 @@
+2024-08-14 13:37:10,524 - INFO - PyTorch version 2.4.0 available.
+2024-08-14 13:37:10,674 - INFO - Use pytorch device_name: cuda
+2024-08-14 13:37:10,674 - INFO - Load pretrained SentenceTransformer: e:\workspace\Langgraph\multi_agent\indexer_model\zpoint_large_embedding_zh
+2024-08-14 13:37:11,578 - INFO - Loading faiss with AVX2 support.
+2024-08-14 13:37:11,630 - INFO - Successfully loaded faiss with AVX2 support.

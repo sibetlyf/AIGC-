@@ -1,0 +1,8 @@
+2024-08-14 13:55:23,679 - INFO - PyTorch version 2.4.0 available.
+2024-08-14 13:55:23,816 - INFO - Use pytorch device_name: cuda
+2024-08-14 13:55:23,816 - INFO - Load pretrained SentenceTransformer: e:\workspace\Langgraph\multi_agent\indexer_model\zpoint_large_embedding_zh
+2024-08-14 13:55:24,674 - INFO - Loading faiss with AVX2 support.
+2024-08-14 13:55:24,684 - INFO - Successfully loaded faiss with AVX2 support.
+2024-08-14 13:55:24,839 - INFO - Finished parsing log file.
+2024-08-14 13:55:34,307 - INFO - HTTP Request: POST http://localhost:11434/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-14 13:55:34,323 - INFO - Saved chat history to JSON file: e:\workspace\Langgraph\multi_agent\logs\chat_history_20240814135534.json
