@@ -108,6 +108,7 @@
  - [ ] 动作播放
  - [ ] Function Call功能
  - [ ] 形象生成功能与动作复刻功能整合
+ - [ ] 语音调用直接调用Agent功能
 
 ### 文件目录说明
 eg:
@@ -168,8 +169,3 @@ filetree
 ### 版权说明
 
 该项目签署了MIT 授权许可，详情请参阅 [LICENSE.txt](https://github.com/sibetlyf/AIGC-/blob/main/LICENSE)
-
-
-
-
-
