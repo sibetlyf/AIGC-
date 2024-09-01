@@ -1,3 +1,4 @@
+
 # 移动鸿鹄第三小组——基于AIGC技术的交互式数字人
 
 ## 任务5
@@ -44,17 +45,17 @@
 	     pip install -r requirements.txt
 
 - 下载预训练模型（sensevocie + cosyvoice）
-	sensevoice-small模型保存在"/ASR"文件夹，cosyvoice模保存在"tts/CosyVoice_For_Windows/pretrained_models"文件夹
+	sensevoice-small模型保存在"/ASR"文件夹，cosyvoice模保存在"tts/CosyVoice_For_Windows/pretrained_models"文件夹，向量编码模型应该保存在"stream\RAG\indexer_model\zpoint_large_embedding_zh"文件夹
 
 	    python downloader
     
-- 启动演示app同时运行后端api与前端gradio）
+- 启动演示app同时运行后端api与前端gradio
 
-	    python ./run_app.py
+	    python ./start.py
 
 方法二：下载配置环境，并直接运行main.bat文件或run.sh文件
 
-	   mian.bat
+	   main.bat
 基础交互界面如图所示
 ![gradio_interface](https://github.com/sibetlyf/AIGC-/blob/b08217825087201d9c4614601b65d139ff6a34a2/pictures/interface.png)
 ### 功能说明
